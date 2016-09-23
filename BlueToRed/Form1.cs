@@ -27,8 +27,8 @@ namespace BlueToRed
         void InitializeCell()
         {
 
-            if (countCell > 5)
-                cellSize = 70;
+            if (countCell > 4)
+                cellSize = 80;
             if (countCell > 8)
                 cellSize = 50;
             cellColor = new Label[countCell * countCell];
@@ -125,6 +125,21 @@ namespace BlueToRed
                 InitializeCell();
             }
         }
+
+        private void level1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Controls.Remove(panel1);
+            countCell = 5;
+            InitializeCell();
+        }
+
+        private void level2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Controls.Remove(panel1);
+            countCell = 10;
+            InitializeCell();
+        }
+
         private void btnPlay_Click(object sender, EventArgs e)
         {
             lblMoved.Enabled = true;

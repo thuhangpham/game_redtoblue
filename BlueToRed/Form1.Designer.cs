@@ -34,6 +34,8 @@
             this.btnPlay = new System.Windows.Forms.Button();
             this.lblMoved = new System.Windows.Forms.Label();
             this.lblCounted = new System.Windows.Forms.Label();
+            this.level1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.level2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -49,6 +51,9 @@
             // 
             // fileToolStripMenuItem
             // 
+            this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.level1ToolStripMenuItem,
+            this.level2ToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
             this.fileToolStripMenuItem.Text = "File";
@@ -97,6 +102,20 @@
             this.lblCounted.TabIndex = 6;
             this.lblCounted.Text = "0";
             // 
+            // level1ToolStripMenuItem
+            // 
+            this.level1ToolStripMenuItem.Name = "level1ToolStripMenuItem";
+            this.level1ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.level1ToolStripMenuItem.Text = "Level 1";
+            this.level1ToolStripMenuItem.Click += new System.EventHandler(this.level1ToolStripMenuItem_Click);
+            // 
+            // level2ToolStripMenuItem
+            // 
+            this.level2ToolStripMenuItem.Name = "level2ToolStripMenuItem";
+            this.level2ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.level2ToolStripMenuItem.Text = "Level 2";
+            this.level2ToolStripMenuItem.Click += new System.EventHandler(this.level2ToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -127,6 +146,8 @@
         private System.Windows.Forms.Button btnPlay;
         private System.Windows.Forms.Label lblMoved;
         private System.Windows.Forms.Label lblCounted;
+        private System.Windows.Forms.ToolStripMenuItem level1ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem level2ToolStripMenuItem;
     }
 }
 
