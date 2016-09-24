@@ -1,0 +1,31 @@
+E:\Data\HK2-2015\WinForm\BlueToRed\BlueToRed\bin\Debug\BlueToRed.exe.config
+E:\Data\HK2-2015\WinForm\BlueToRed\BlueToRed\bin\Debug\BlueToRed.exe
+E:\Data\HK2-2015\WinForm\BlueToRed\BlueToRed\bin\Debug\BlueToRed.pdb
+E:\Data\HK2-2015\WinForm\BlueToRed\BlueToRed\obj\Debug\BlueToRed.csprojResolveAssemblyReference.cache
+E:\Data\HK2-2015\WinForm\BlueToRed\BlueToRed\obj\Debug\BlueToRed.Form1.resources
+E:\Data\HK2-2015\WinForm\BlueToRed\BlueToRed\obj\Debug\BlueToRed.Properties.Resources.resources
+E:\Data\HK2-2015\WinForm\BlueToRed\BlueToRed\obj\Debug\BlueToRed.csproj.GenerateResource.Cache
+E:\Data\HK2-2015\WinForm\BlueToRed\BlueToRed\obj\Debug\BlueToRed.exe
+E:\Data\HK2-2015\WinForm\BlueToRed\BlueToRed\obj\Debug\BlueToRed.pdb
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\bin\Debug\BlueToRed.exe.config
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.exe
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.pdb
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\bin\Debug\BlueToRed.exe
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\bin\Debug\BlueToRed.pdb
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.csprojResolveAssemblyReference.cache
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.Form1.resources
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.Properties.Resources.resources
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.csproj.GenerateResource.Cache
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\bin\Debug\BlueToRed.exe.config
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.exe
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.pdb
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\bin\Debug\BlueToRed.exe
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\bin\Debug\BlueToRed.pdb
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.csprojResolveAssemblyReference.cache
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.Form1.resources
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.Properties.Resources.resources
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.csproj.GenerateResource.Cache
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\bin\Debug\BlueToRed.exe.manifest
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\bin\Debug\BlueToRed.application
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.exe.manifest
+E:\Data\Semesters\Second-year\HK2-2015\WinForm\Window Form C Sharp\BlueToRed\BlueToRed\obj\Debug\BlueToRed.application
